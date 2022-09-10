@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikbanjan&label=Profile%20views&color=0e75b6&style=flat" alt="karthikbanjan" /> </p>
 
-- 🔭 Latest project: 
+- 🔭 Latest projects: 
    - [Web Quiz Engine](https://github.com/karthikbanjan/Web-Quiz-Engine)
    - [Code Sharing Platform](https://github.com/karthikbanjan/Code-Sharing-Platform)
  
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Framework** and **HUGO** with **Bootstrap**
 
 - 📫 How to reach me **karthikbanjan14@gmail.com**
 
