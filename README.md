@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karthik Banjan</h1>
-<h3 align="center">A passionate student in Computer Science from India</h3>
+<h3 align="center">A passionate student in Computer Science and aspiring cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikbanjan&label=Profile%20views&color=0e75b6&style=flat" alt="karthikbanjan" /> </p>
 
 - 🔭 Latest projects: 
+   - [LLYFR - eBook Repository](https://github.com/karthikbanjan/Llyfr)
    - [Web Quiz Engine](https://github.com/karthikbanjan/Web-Quiz-Engine)
    - [Code Sharing Platform](https://github.com/karthikbanjan/Code-Sharing-Platform)
  
-- 🌱 I’m currently learning **Spring Framework** and **HUGO** with **Bootstrap**
-
-- 📫 How to reach me **karthikbanjan14@gmail.com**
+- 🌱 I’m currently learning **Spring Framework** and creation of **Discord Bots**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
