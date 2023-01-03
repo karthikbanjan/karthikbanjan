@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Banjan</h1>
-<h3 align="center">A passionate student in Computer Science and aspiring cloud developer from India</h3>
+<h3 align="center">A passionate student in computer science and aspiring cloud developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=karthikbanjan&icon=0&color=0)](https://visitcount.itsvg.in)
 
