@@ -10,7 +10,7 @@
    - [Code Sharing Platform](https://github.com/karthikbanjan/Code-Sharing-Platform)
  
 - 🌱 I’m currently working on my university applications. 
-- 🌱 I’m currently learning **Spring Framework** and creation of **Discord Bots**.
+- 🌱 I'm currently working on my final year project (Blockchain and IPFS) and remote interning at V-Tron B. V.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/banjankarthik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/karthikbanjan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/karthikbanjan) 
