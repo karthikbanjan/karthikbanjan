@@ -19,6 +19,3 @@
 ![](https://karthikbanjan-github-stats.vercel.app/api?username=karthikbanjan&hide=prs,issues,contribs&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karthikbanjan&theme=great-gatsby&hide_border=false)<br/>
 ![](https://karthikbanjan-github-stats.vercel.app/api/top-langs/?username=karthikbanjan&hide=javascript&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthikbanjan&title=Commits&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
